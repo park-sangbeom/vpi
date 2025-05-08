@@ -6,7 +6,7 @@ Initial code released.
 
 # Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation
 
-[ [Project Page](https://joonhyung-lee.github.io/vpi/) | Paper | Video ]
+[ [Project Page](https://joonhyung-lee.github.io/vpi/) | [Paper](https://arxiv.org/abs/2403.11513) | [Video](https://youtu.be/rDBnSN51FYo) ]
 
 Official Implementation of the paper ***Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation***
 
